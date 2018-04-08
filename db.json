@@ -1,0 +1,224 @@
+{
+  "camera1": {
+    "keys": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    },
+    "mobile": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    },
+    "dhiraj": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    }
+  },
+  "camera2": {
+    "keys": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    },
+    "mobile": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    },
+    "dhiraj": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    }
+  },
+  "camera3": {
+    "keys": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    },
+    "mobile": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    },
+    "dhiraj": {
+      "max": {
+        "timestamp": "11:01PM",
+        "image": "http://",
+        "confidence": 0.9
+      },
+      "latest": [
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        },
+        {
+          "timestamp": "11:01PM",
+          "image": "http://",
+          "confidence": 0.9
+        }
+      ]
+    }
+  }
+}
